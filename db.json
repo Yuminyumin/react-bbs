@@ -1,0 +1,50 @@
+{
+  "bbs": [
+    {
+      "id": 1724048380314,
+      "title": {
+        "title": "ㅇㅇ"
+      },
+      "content": {
+        "content": "ㅇㅇ"
+      }
+    },
+    {
+      "id": 1724048929500,
+      "title": {
+        "title": "ㅁㄹ"
+      },
+      "content": {
+        "content": "ㅁㄹ"
+      }
+    },
+    {
+      "id": 1724049059051,
+      "title": {
+        "title": "ㅁㄴㅇ"
+      },
+      "content": {
+        "content": "ㄴㅁㅇ"
+      }
+    },
+    {
+      "id": 1724049071042,
+      "title": {
+        "title": "ㄴㅇ"
+      },
+      "content": {
+        "content": "ㄴㅇ"
+      }
+    },
+    {
+      "id": 1724049199956,
+      "title": {
+        "title": "ㅁㄴㅇ"
+      },
+      "content": {
+        "content": "ㅁㄴㅇㅁㄴㅇㄴㅁㅇㅁㄴㅇ"
+      }
+    }
+  ],
+  "comments": []
+}
